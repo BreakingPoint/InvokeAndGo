@@ -8,3 +8,6 @@
 
 * If you want to use a specific version of InvokeAI or a different set of models, just edit the configuration section at the beginning of the code. Since Google Colab does [not allow multiline inputs](https://colab.research.google.com/notebooks/forms.ipynb) (for a list of various models) I chose to keep it in pure code.
   * If you want to speed the installation up you can remove the IP-Adapter and ControlNet models and load them as needed using the [model manager page](https://invoke-ai.github.io/InvokeAI/installation/050_INSTALLING_MODELS/#installation-via-the-web-gui) of InvokeAI's UI later.
+
+* Run your InvokeAI instance now with this link:<br>
+  https://colab.research.google.com/github/BreakingPoint/InvokeAndGo/blob/main/InvokeAndGo.ipynb
